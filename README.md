@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gordisluis
 - 👀 I’m interested in ... programming  
-- 🌱 I’m currently learning ... python, kotlin
+- 🌱 I’m currently learning ... python.
 - 📫 How to reach me ... gordisandroid@gmail.com
 
 <!---
