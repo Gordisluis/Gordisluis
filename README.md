@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gordisluis
-- 👀 I’m interested in ... programming  
-- 🌱 I’m currently learning ... python.
+- 👀 I’m interested in ... becomin a developer.
+- 🌱 I’m currently learning ... python, javascript, react, django
 - 📫 How to reach me ... gordisandroid@gmail.com
 
 <!---
