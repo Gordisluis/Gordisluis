@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Gordisluis
-- 👀 I’m interested in ...  web developement, mobile development.
-- 🌱 I’m currently learning ... python, javascript, react, django, flutter, kotlin, rust.
-- 📫 How to reach me ... gordisandroid@gmail.com
+- 👋 Hi, I’m luis
+- 👀 I’m interested in ...  web developement.
+- 🌱 I’m currently learning ... Ruby, javascript, react, flutter, kotlin, rust.
+- 📫 How to reach me ... Vpedev@gmail.com
 
 <!---
 Gordisluis/Gordisluis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
