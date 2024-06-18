@@ -64,7 +64,8 @@
 ## Use To Code
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![Python](https://img.shields.io/badge/Python-F0DB4F?style=for-the-badge&labelColor=black&logo=Python&logoColor=F0DB4F)
+![Python](https://img.shields.io/badge/Python-33FF39?style=for-the-badge&labelColor=black&logo=Python&logoColor=33FF39)
+![Python](https://img.shields.io/badge/Django-33FF39?style=for-the-badge&labelColor=black&logo=Django&logoColor=33FF39)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
