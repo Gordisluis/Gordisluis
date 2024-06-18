@@ -31,7 +31,7 @@
   <samp>
     <a href="https://www.google.com/search?q=luis+garcia">「 Google Me 」</a>
     <br>
-    「 I am a full stack web application developer from <b>Venezuela</b> 」
+    「 I am a web application developer from <b>Venezuela</b> 」
     <br>
     <br>
   </samp>
