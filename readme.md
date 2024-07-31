@@ -19,6 +19,7 @@
 <p align="center"> 
   <samp>
     「 I am a web application developer from <b>Venezuela</b> 」
+     <br>
     「 Soy un desarrollador web de <b>Venezuela</b> 」
     <br>
     <br>
