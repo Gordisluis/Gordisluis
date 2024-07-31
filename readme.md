@@ -1,16 +1,4 @@
-<!--
-<h2 align="center">
-  Welcome to Al Siam World!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
--->
 
-<!--
-<p align="center">
-  <a href="https://github.com/Gordisluis"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
-</p>
-
- -->
 
 <a href="https://komarev.com/ghpvc/?username=Gordisluis">
   <img align="right" src="https://komarev.com/ghpvc/?username=Gordisluis&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
@@ -22,6 +10,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hola, Soy
+                   Hello, i am
                 <b><a target="_blank" href="https://portafolionew-3d.vercel.app/">Luis Garcia</a></b>
         </samp>
 </h3>
@@ -44,6 +33,7 @@
 <br />
 
 <!-- About Section -->
+ # About me
  # Acerca de mi
  
 <p>
@@ -64,7 +54,8 @@
 <br/>
 <br/>
 
-## Use To Code
+## Use To code
+## Lenguajes 
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Python](https://img.shields.io/badge/Ptyhon-3C873A?style=for-the-badge&labelColor=black&logo=Python.js&logoColor=3C873A)
@@ -81,7 +72,6 @@
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Strapi](https://img.shields.io/badge/strapi-2E7EEA?style=for-the-badge&logo=strapi&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
