@@ -21,7 +21,7 @@
 
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Hey There!, I am
+        <samp>&gt; Hola, Soy
                 <b><a target="_blank" href="https://portafolionew-3d.vercel.app/">Luis Garcia</a></b>
         </samp>
 </h3>
@@ -29,9 +29,8 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=luis+garcia">「 Google Me 」</a>
-    <br>
     「 I am a web application developer from <b>Venezuela</b> 」
+    「 Soy un desarrollador web de <b>Venezuela</b> 」
     <br>
     <br>
   </samp>
@@ -45,15 +44,18 @@
 <br />
 
 <!-- About Section -->
- # About me
+ # Acerca de mi
  
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
 
   <br/>
  ✌️ &emsp; Enjoy to do programming sharing & learning knowledge <br/><br/>
+ ✌️ &emsp; Me Gusta la programacion aprender y compartir <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
+ ❤️ &emsp; Amo el escribir codigo y aprender nuevas funcionalidades <br/><br/>
  📧 &emsp; Reach me anytime: vpedev@gmail.com<br/><br/>
+ 📧 &emsp; Sientase libre de escribirme cuando me necesite: vpedev@gmail.com<br/><br/>
 
 
 </p>
