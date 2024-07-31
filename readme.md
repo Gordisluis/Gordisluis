@@ -9,8 +9,9 @@
 
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Hola, Soy <br>
+        <samp>&gt; Hola, Soy 
               &gt;     Hello, i am
+              <br>
                 <b><a target="_blank" href="https://portafolionew-3d.vercel.app/">Luis Garcia</a></b>
         </samp>
 </h3>
